@@ -1,2 +1,1 @@
-# draggable-task-board
-Created with CodeSandbox
+# draggable task board
